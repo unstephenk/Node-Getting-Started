@@ -14,3 +14,17 @@ Optional Reads:
 Postman: https://learning.getpostman.com/docs/postman/launching-postman/sending-the-first-request/
 Docker: https://docs.docker.com/get-started/
 Node: https://nodejs.org/en/about/
+
+### Installation
+```
+npm install
+```
+
+### Docker
+Run the Docker Command
+```
+docker build -t lunchandlearn .
+```
+```
+docker run lunchandlearn
+```
