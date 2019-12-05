@@ -1,0 +1,22 @@
+{
+  "name": "node-getting-started",
+  "version": "1.0.0",
+  "description": "spacee lunch and learn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unstephenk/Node-Getting-Started.git"
+  },
+  "author": "Stephen Kuehl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unstephenk/Node-Getting-Started/issues"
+  },
+  "homepage": "https://github.com/unstephenk/Node-Getting-Started#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
